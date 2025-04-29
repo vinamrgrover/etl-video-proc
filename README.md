@@ -42,7 +42,7 @@ chmod +x exec.sh
 
 That's all! You'll find all the generated data inside `downloads` directory.
 
-Here's the output for `tree` command:
+Here's the output for `tree` command (partial - for demonstration):
 
 ```shell
 .
