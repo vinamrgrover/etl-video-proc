@@ -1,5 +1,9 @@
 # Video Transcribing ETL Pipeline 🚀
 
+## Architecture Diagram
+
+![vid-etl-diagram](https://github.com/user-attachments/assets/0010e379-e6a0-42fb-9378-c34b9adabf97)
+
 ## Description
 
 This repository contains scripts for an ETL Pipeline that transcribes and transforms video by ffmpeg and OpenAI Whisper.
